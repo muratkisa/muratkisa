@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm murat</h1>
-<h3 align="center">Computer Engineer, MSc.</h3>
+<h1 align="left">Hi 👋, I'm murat</h1>
+<h3 align="left">Computer Engineer, MSc.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muratkisa&label=Profile%20views&color=0e75b6&style=flat" alt="muratkisa" /> </p>
 
