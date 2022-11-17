@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muratkisa&label=Profile%20views&color=0e75b6&style=flat" alt="muratkisa" /> </p>
 
 
-- 📫 How to reach me **kisa.muratt@gmail.com**
+- 📫 How to reach me <a href="mailto:kisa.muratt@gmail.com">email</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
